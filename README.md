@@ -11,4 +11,8 @@ Also, I am currently researching AI at school. I am currently studying AI-OCR te
 ## 👓 Skills
 ### Language・FrameWork
 
-[![Programming Languages](https://skillicons.dev/icons?i=cs,c,py,html,laravel,sqlite,processing)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,c,py,laravel,sqlite,processing)](https://skillicons.dev)
+
+### Tools
+
+[![Programming Languages](https://skillicons.dev/icons?i=unity,git,github,latex,vscode,linux,windows)](https://skillicons.dev)
